@@ -1,7 +1,7 @@
 <h2>458. Poor Pigs</h2>
-There are buckets buckets of liquid, where ***exactly one*** of the buckets is poisonous. 
+There are buckets buckets of liquid, where exactly one of the buckets is poisonous. 
 To figure out which one is poisonous, you feed some number of (poor) pigs the liquid to see whether they will die or not. 
-Unfortunately, you only have ***minutesToTest*** minutes to determine which bucket is poisonous.
+Unfortunately, you only have minutesToTest minutes to determine which bucket is poisonous.
 
 You can feed the pigs according to these steps:
 
